@@ -1,5 +1,7 @@
 # О проекте
 Простой проект на react для лудоманов, сделанный на классовых компонентах. Основная задача проекта — отработка простановки слушателей событий и изменения стейта компонента.
+
+[https://alexeygamovwvs.github.io/looter-box/](затестить)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
